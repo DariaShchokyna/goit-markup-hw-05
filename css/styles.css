@@ -544,8 +544,6 @@ color: #ffffff;
 }
 .form-form{
   display: flex;
-}
-.label-form{
   gap: 24px;
 }
 .form-email{
@@ -580,6 +578,9 @@ input:placeholder{
   background-color: #4D5AE5;
   border: none;
   border-radius: 4px; 
+}
+.icon-form{
+  margin-left: 16px;
 }
 /* /Forma */
 .off {

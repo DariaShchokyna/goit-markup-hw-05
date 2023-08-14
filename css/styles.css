@@ -562,8 +562,8 @@ color: #ffffff;
   border-radius: 4px; 
   color: #ffffff;
 }
-input:placeholder{
-  color #ffffff;
+textarea::placeholder{
+  color: #2E2F4266;
 }
 .form-button{
   min-width: 165px; 
